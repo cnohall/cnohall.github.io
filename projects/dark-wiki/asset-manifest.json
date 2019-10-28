@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dark-wiki/static/css/main.70e86af1.chunk.css",
+    "main.js": "/dark-wiki/static/js/main.d442f5f9.chunk.js",
+    "main.js.map": "/dark-wiki/static/js/main.d442f5f9.chunk.js.map",
+    "runtime-main.js": "/dark-wiki/static/js/runtime-main.bc8ab654.js",
+    "runtime-main.js.map": "/dark-wiki/static/js/runtime-main.bc8ab654.js.map",
+    "static/js/2.cf422e5d.chunk.js": "/dark-wiki/static/js/2.cf422e5d.chunk.js",
+    "static/js/2.cf422e5d.chunk.js.map": "/dark-wiki/static/js/2.cf422e5d.chunk.js.map",
+    "index.html": "/dark-wiki/index.html",
+    "precache-manifest.9d2c3ba4ea6ef2e2222412aee288b35f.js": "/dark-wiki/precache-manifest.9d2c3ba4ea6ef2e2222412aee288b35f.js",
+    "service-worker.js": "/dark-wiki/service-worker.js",
+    "static/css/main.70e86af1.chunk.css.map": "/dark-wiki/static/css/main.70e86af1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc8ab654.js",
+    "static/js/2.cf422e5d.chunk.js",
+    "static/css/main.70e86af1.chunk.css",
+    "static/js/main.d442f5f9.chunk.js"
+  ]
+}
